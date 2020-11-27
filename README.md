@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![asciicast](https://asciinema.org/a/375732.png)](https://asciinema.org/a/375732)
+<a href="https://asciinema.org/a/375751" target="_blank"><img src="https://asciinema.org/a/375751.svg" width="400" /></a>
