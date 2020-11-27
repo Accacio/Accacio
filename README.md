@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 Here you will find things related to music 🎶, games 🕹️ and engineering ⚙️ (mostly control)
 
-| <a href="https://asciinema.org/a/375759" target="_blank"><img src="https://asciinema.org/a/375759.svg" width="300" title="hello" /></a> | <a href="https://asciinema.org/a/375760" target="_blank"><img src="https://asciinema.org/a/375760.svg" width="300" /></a> |
-|:--:| :--: |
-| *No control* | *Controlled* |
+| <a href="https://asciinema.org/a/375762" target="_blank"><img src="https://asciinema.org/a/375762.svg" width="300" title="hello" /></a> | <a href="https://asciinema.org/a/375763" target="_blank"><img src="https://asciinema.org/a/375763.svg" width="300" /></a> | <a href="https://asciinema.org/a/375764" target="_blank"><img src="https://asciinema.org/a/375764.svg" width="300" /></a> |
+|:--:| :--: |:--: |
+| *No control* | *Swing-Up without Stabilization* |  *Swing-Up with Stabilization* |
 
 
 
