@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://asciinema.org/a/375751" target="_blank"><img src="https://asciinema.org/a/375751.svg" width="400" /></a>
+<a href="https://asciinema.org/a/375759" target="_blank"><img src="https://asciinema.org/a/375759.svg" width="400" /></a>
