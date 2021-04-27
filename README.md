@@ -28,3 +28,5 @@ This is an example of a simulation whose objective is to control the inverted pe
 | <a href="https://asciinema.org/a/375762" target="_blank"><img src="img/no_control.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375763" target="_blank"><img src="img/no_control_swingup.svg" width="300" title="click to watch" /></a> | <a href="https://asciinema.org/a/375764" target="_blank"><img src="img/controlled.svg" width="300" title="click to watch" /></a> |
 |:--:| :--: |:--: |
 | *No control* | *Swing-Up without Stabilization* |  *Swing-Up with Stabilization* |
+
+You can see the source code of this simulation [here](https://github.com/Accacio/pendulum)
