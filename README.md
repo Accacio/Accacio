@@ -26,7 +26,7 @@ Here you will find things related to music 🎶, games 🕹️ and engineering �
 
 This is an example of a simulation whose objective is to control the inverted pendulum in a upright position:
 
-<p align="center"><a href="https://asciinema.org/a/444816" target="_blank"><img src="img/controlled.svg" width="50%" title="click to watch" /></a></p>
+<p align="center"><a href="https://asciinema.org/a/444816" target="_blank"><img src="https://raw.githubusercontent.com/Accacio/pendulum/master/controlled.gif" width="50%" title="click to watch" /></a></p>
 <p align="center">  Swing-Up with Stabilization </p>
 
 You can see the source code of this simulation [here](https://github.com/Accacio/pendulum)
