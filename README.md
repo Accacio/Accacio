@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently a PhD Student in [Automatic Control](https://en.wikipedia.org/wiki/Automation) at [CentraleSupélec](https://www.centralesupelec.fr/)
+- 🔭 I’m currently a PhD Candidate in [Automatic Control](https://en.wikipedia.org/wiki/Automation) at [CentraleSupélec](https://www.centralesupelec.fr/)
 - 📫 You can reach me at raccacio@poli.ufrj.br or [twitter](https://twitter.com/oaccacio).
 - [My 2nd 🧠](https://github.com/Accacio/hippokamp)
 - [My blog](http://accacio.gitlab.io)
