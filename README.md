@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 - 🔭 I’m currently a PhD Candidate in [Automatic Control](https://en.wikipedia.org/wiki/Automation) at [CentraleSupélec](https://www.centralesupelec.fr/)
@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 -->
 
 Here you will find things related to music 🎶, games 🕹️ and engineering ⚙️ (mostly control).
-#### Control Engineering
+
+# Now
+I'm currently writing my PhD Thesis, you can follow its development here https://github.com/Accacio/thesis
+
+# Control Engineering
 > Control Engineering is the art of taking what you have and transforming it in what you want.
 
 This is an example of a simulation whose objective is to control the inverted pendulum in a upright position:
@@ -30,3 +34,4 @@ This is an example of a simulation whose objective is to control the inverted pe
 <p align="center">  Swing-Up with Stabilization </p>
 
 You can see the source code of this simulation [here](https://github.com/Accacio/pendulum)
+
