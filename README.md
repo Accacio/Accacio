@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Here you will find things related to music 🎶, games 🕹️ and engineering ⚙️ (mostly control).
 
 # Now
-Defended my PhD, looking for Post-Doc/MdC/Jeune Docteur positions in Toulouse
+Starting my Post-Doc at LAAS-CNRS
 
 # Control Engineering
 > Control Engineering is the art of taking what you have and transforming it in what you want.
