@@ -1,7 +1,8 @@
 # Hi there 👋
 
 
-- 🔭 I recently got my PhD in [Automatic Control](https://en.wikipedia.org/wiki/Automation) at [CentraleSupélec](https://www.centralesupelec.fr/)
+- 🔭 I am a PhD in [Automatic Control](https://en.wikipedia.org/wiki/Automation) interested in security of Cyber-Physical Systems.
+- I am currently working on the localisation of autonomous vehicles in LAAS-CNRS
 - 📫 You can reach me at rafael.accacio.nogueira@gmail.com or [twitter](https://twitter.com/oaccacio).
 - [My 2nd 🧠](https://github.com/Accacio/hippokamp)
 - [My blog](http://accacio.gitlab.io)
@@ -22,8 +23,6 @@ Here are some ideas to get you started:
 
 Here you will find things related to music 🎶, games 🕹️ and engineering ⚙️ (mostly control).
 
-# Now
-Starting my Post-Doc at LAAS-CNRS
 
 # Control Engineering
 > Control Engineering is the art of taking what you have and transforming it in what you want.
