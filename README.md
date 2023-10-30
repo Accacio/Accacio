@@ -1,9 +1,9 @@
 # Hi there 👋
 
 
-- 🔭 I am a PhD in [Automatic Control](https://en.wikipedia.org/wiki/Automation) interested in security of Cyber-Physical Systems and Guidance/Navigation/Control.
-- I am currently working on the localisation of autonomous vehicles in LAAS-CNRS
-- 📫 You can reach me at rafael.accacio.nogueira@gmail.com or [twitter](https://twitter.com/oaccacio).
+- 🔭 I am a Post-doc researcher working on the localisation of autonomous vehicles at LAAS-CNRS
+- I am interested in security of Cyber-Physical Systems, Guidance/Navigation/Control and Education in Automatic Control.
+- 📫 You can reach me at rafael [dot] accacio [dot] nogueira [at] gmail [dot] com.
 - [My 2nd 🧠](https://github.com/Accacio/hippokamp)
 - [My blog](http://accacio.gitlab.io)
 
