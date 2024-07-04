@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🔭 I am a research engineer working on the interaction between human and robots at LAAS-CNRS
+- 🔭 I am a research engineer working on the interaction between humans and robots at LAAS-CNRS
 - I am interested in security of Cyber-Physical Systems, Guidance/Navigation/Control and Education in Automatic Control.
 - 📫 You can reach me at rafael [dot] accacio [dot] nogueira [at] gmail [dot] com.
 - [My 2nd 🧠](https://github.com/Accacio/hippokamp)
