@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here you will find things related to music 🎶, games 🕹️ and engineering ⚙️ (mostly control engineering).
+Here you will find things not only related to engineering, but also related to music 🎶 and games 🕹️.
 
 
 # Control Engineering
