@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🔭 I am an assistant professor at IMT Atlantique, working on the localisation of autonomous vehicles and identification of dynamic systems at LS2N
+- 🔭 I am an assistant professor at IMT Atlantique doing research with LS2N
 - I am interested in security of Cyber-Physical Systems, Guidance/Navigation/Control and Education in Automatic Control.
 - 📫 You can reach me at rafael [dot] accacio [dot] nogueira [at] gmail [dot] com.
 - [My blog](http://accacio.gitlab.io)
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here you will find things related to music 🎶, games 🕹️ and engineering ⚙️ (mostly control).
+Here you will find things related to music 🎶, games 🕹️ and engineering ⚙️ (mostly control engineering).
 
 
 # Control Engineering
