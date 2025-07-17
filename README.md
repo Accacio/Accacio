@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🔭 I am an assistant professor at IMT Atlantique doing research with LS2N
+<!--- 🔭 I am an assistant professor at IMT Atlantique doing research with LS2N-->
 - I am interested in security of Cyber-Physical Systems, Guidance/Navigation/Control and Education in Automatic Control.
 - 📫 You can reach me at rafael [dot] accacio [dot] nogueira [at] gmail [dot] com.
 - [My blog](http://accacio.gitlab.io)
